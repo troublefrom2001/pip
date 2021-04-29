@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1618391977 source:d:\учеба\прога\itpip\it_apple.cpp
+	"h.h"
+	"h.h"
+
+1618847576 d:\учеба\прога\itpip\h.h
+	<SDL.h>
+	<iostream>
+
+1618849078 source:d:\учеба\прога\itpip\main.cpp
+	"h.h"
+
+1618244153 source:d:\учеба\прога\itpip\t_sqare.cpp
+	"h.h"
+
+1618244302 source:d:\учеба\прога\itpip\zz.cpp
+	"h.h"
+
+1618245449 source:d:\учеба\прога\itpip\it_ne_apple.cpp
+	"h.h"
+
+1618244153 source:d:\учеба\прога\itpip\it_sqare.cpp
+	"h.h"
+
+1618245215 source:d:\учеба\прога\itpip\it_zz.cpp
+	"h.h"
+
+1618245016 source:d:\учеба\прога\itpip\it_pole.cpp
+	"h.h"
+
+1618816705 source:d:\учеба\прога\itpip\it_kar.cpp
+	"h.h"
+
+1618845449 source:d:\учеба\прога\itpip\it_serdce.cpp
+	"h.h"
+
+1618848937 source:d:\учеба\прога\itpip\it_gemaover.cpp
+	"h.h"
+
+1618391977 source:c:\users\uchenik\desktop\itpip\it_apple.cpp
+	"h.h"
+	"h.h"
+
+1619675764 c:\users\uchenik\desktop\itpip\h.h
+	<SDL.h>
+	<iostream>
+
+1619676143 source:c:\users\uchenik\desktop\itpip\it_gemaover.cpp
+	"h.h"
+
+1618816705 source:c:\users\uchenik\desktop\itpip\it_kar.cpp
+	"h.h"
+
+1618245449 source:c:\users\uchenik\desktop\itpip\it_ne_apple.cpp
+	"h.h"
+
+1618245016 source:c:\users\uchenik\desktop\itpip\it_pole.cpp
+	"h.h"
+
+1618845449 source:c:\users\uchenik\desktop\itpip\it_serdce.cpp
+	"h.h"
+
+1618244153 source:c:\users\uchenik\desktop\itpip\it_sqare.cpp
+	"h.h"
+
+1618245215 source:c:\users\uchenik\desktop\itpip\it_zz.cpp
+	"h.h"
+
+1619676115 source:c:\users\uchenik\desktop\itpip\main.cpp
+	"h.h"
+
